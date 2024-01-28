@@ -4,3 +4,4 @@
 # Notes
 
 ### [websocket protocol!](https://en.wikipedia.org/wiki/WebSocket) 
+### [websocket handbook!](https://websocket.org/)
